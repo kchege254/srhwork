@@ -1,3 +1,3 @@
 # srhwork
 ## this is a project repository
-I just make a readme file
+I just made a readme file
